@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mohsophasa.weihang2020.club/sitemap.xml
